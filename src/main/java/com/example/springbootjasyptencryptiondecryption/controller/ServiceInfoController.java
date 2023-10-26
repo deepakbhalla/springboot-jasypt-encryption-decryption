@@ -1,6 +1,6 @@
 package com.example.springbootjasyptencryptiondecryption.controller;
 
-import com.example.springbootjasyptencryptiondecryption.AppConstants;
+import com.example.springbootjasyptencryptiondecryption.constant.AppConstants;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.example.springbootjasyptencryptiondecryption;
+package com.example.springbootjasyptencryptiondecryption.constant;
 
 public enum AppConstants {
 
