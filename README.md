@@ -45,3 +45,8 @@ java -cp jasypt-1.9.3.jar org.jasypt.intf.cli.JasyptPBEStringDecryptionCLI input
 ```
 
 ![jasypt_decrypt_command_line.png](screenshots%2Fjasypt_decrypt_command_line.png)
+
+References:
+
+http://www.jasypt.org/
+
